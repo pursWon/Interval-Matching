@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D064E61C286D768D00DDD4B9 /* Interval_MatchingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E61B286D768D00DDD4B9 /* Interval_MatchingApp.swift */; };
+		D064E61C286D768D00DDD4B9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E61B286D768D00DDD4B9 /* main.swift */; };
 		D064E61E286D768D00DDD4B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E61D286D768D00DDD4B9 /* ContentView.swift */; };
 		D064E620286D768F00DDD4B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D064E61F286D768F00DDD4B9 /* Assets.xcassets */; };
 		D064E623286D768F00DDD4B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D064E622286D768F00DDD4B9 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		D064E618286D768D00DDD4B9 /* Interval Matching.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Interval Matching.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D064E61B286D768D00DDD4B9 /* Interval_MatchingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interval_MatchingApp.swift; sourceTree = "<group>"; };
+		D064E61B286D768D00DDD4B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D064E61D286D768D00DDD4B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D064E61F286D768F00DDD4B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D064E622286D768F00DDD4B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		D064E61A286D768D00DDD4B9 /* Interval Matching */ = {
 			isa = PBXGroup;
 			children = (
-				D064E61B286D768D00DDD4B9 /* Interval_MatchingApp.swift */,
+				D064E61B286D768D00DDD4B9 /* main.swift */,
 				D064E61D286D768D00DDD4B9 /* ContentView.swift */,
 				D064E61F286D768F00DDD4B9 /* Assets.xcassets */,
 				D064E624286D768F00DDD4B9 /* Interval_Matching.entitlements */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D064E61E286D768D00DDD4B9 /* ContentView.swift in Sources */,
-				D064E61C286D768D00DDD4B9 /* Interval_MatchingApp.swift in Sources */,
+				D064E61C286D768D00DDD4B9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
